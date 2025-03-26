@@ -1,0 +1,34 @@
+
+"""
+Texto no imprimible
+
+estado="Letra"
+numero_entero=10
+numero_real=10.9
+valor_booleano= True
+
+print("Mostrar texto")
+variable= input()
+print("Ingresaste ",estado)
+print(f"ingresaste {estado} seguir escribiendo {variable}")
+
+#--------------------------- comentario
+
+"""
+
+#variable= input("Hola, esto es un texto, ingresarlo: ")
+
+#--------------------------- 
+
+numero =input("Ingresa un numero: ")
+tipo= type(numero).__name__
+print(tipo)
+
+
+numero_procesado = int(numero)
+tipo_procesado= type(numero_procesado).__name__
+print(f"{tipo_procesado} t")
+print(numero_procesado +1)
+
+print(numero + 1) #No se realizo la conversion, no se puede ejecutar accion entre 2 datos diferente
+
