@@ -1,0 +1,47 @@
+How will artificial intelligence redefine what it means to be human?
+Is artificial intelligence a threat to humanity?
+
+
+AI researcher who studies AI's impacts on society
+
+email weird came telling sasha that her work will ends humanity
+
+AI is hot 
+
+
+AI models can contribute to climate change, training data uses art and books created by artists and a
+
+
+
+BLOOM a bigscience initiative with emphasis on ethics transparency and consent
+
+sustainability-BLOOM's environment impacts, j ust for training it used as much energy as 30 homes in a year emitting 25 tons of carbons dioxide (drive a car 5 times around the platnet), (OPt 70 , gapher 352 GPT-3 502)
+	
+Tech companies are not messuring this carbon footprint
+Larger models emit 14 times more carbon doing the same task than smaller models
+
+
+CodeCarbon, tool that runs in parallel to AI training code that estimate the amount of energy it consumes and the amount of carbons it emits to help us to choice the more sustainable model or deploying AI models on renewable energy which can drastically reduce their emission 
+
+
+Spawning.ai organization founded by artists, created a tool called ¨Have i been trained ?
+
+
+Spawning.ai and Hugging Face created opt-in and opt-out mechanisms for creating data sets
+
+Bias models-> when AIs models encode patterns and beliefs that con represent stereotypes or racism and sexism
+
+The Stable Bias Explorer lets you explore the bias of image generation models through the lens of professions 
+
+Regarding the future existencial risks of humanity due to AIs it's a distraction froms its current very tangible impacts on society
+
+"We build the road as we walk it and we decide the direction we want to go in together"
+
+
+********Essay
+
+
+
+Artificial inteligence is a powerful tool that strongly influence over the humanity. Most of the scientist believe that AI use is not as inevitable for any particular task but rahter as a choice with benefits and risk that must be carfully weigh up.
+
+Nowdays to much people use it for their own benefits. Some others are using this to innovate and develop new things, here is where Sasha Luccioni came in 
