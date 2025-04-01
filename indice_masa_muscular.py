@@ -24,4 +24,4 @@ indice_masa_corporal= float(peso_paciente/math.pow(estatura_paciente,2))
 
 indice_masa_muscular= float((indice_masa_corporal*porcentaje_muscular)/100)
 
-print(f"El indice de masa corporal es '{indice_masa_corporal}' y tu indice de masa muscular es '{indice_masa_muscular}'")
+print(f"El indice de masa corporal es '{indice_masa_corporal:.2f}' y tu indice de masa muscular es '{indice_masa_muscular:.2f}'")
